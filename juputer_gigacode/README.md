@@ -1,4 +1,4 @@
-## Установка Jupyter Notebook и его расщирения AI-ассистента GigaCode
+## Установка Jupyter Notebook и его расширения AI-ассистента GigaCode
 
 Установка JN:
 ```bash
