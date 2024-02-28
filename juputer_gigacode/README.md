@@ -1,4 +1,4 @@
-##Установка Jupyter Notebook и его расщирения AI-ассистента GigaCode
+## Установка Jupyter Notebook и его расщирения AI-ассистента GigaCode
 
 Установка JN:
 ```bash
@@ -17,7 +17,7 @@ jupyter contrib nbextension install --user
 jupyter nbextensoins_configurator enable --user
 ```
 
-Установка AI-ассистена GigaCode файл с расширением необходимо сперва распаковать [a ralative link](gigacode-jupyter-ext-1.1.176-ext.tar.gz):
+Установка AI-ассистена GigaCode файл с расширением необходимо сперва распаковать [файл с расширением](gigacode-jupyter-ext-1.1.176-ext.tar.gz):
 ```bash
 jupyter nbextension install ~/Downloads/gigacode --sys-prefix
 jupyter nbextension enable gigacode/main --sys-prefix
